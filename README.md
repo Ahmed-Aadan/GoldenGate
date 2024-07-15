@@ -13,6 +13,9 @@ This project demonstrates a simple College website application. It is built with
 
 ## Github link
 
-## Netlify link# GoldenGateCollegeProject
+## Vercel link
+'https://golden-gate.vercel.app/'
+
+# GoldenGateCollegeProject
 # GoldenGateCollegeFirst
 # GoldenGateCollegeFirst
