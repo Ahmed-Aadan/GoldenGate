@@ -11,11 +11,9 @@ To get started with Golden Gate College, follow these steps:
 ## About the Project
 This project demonstrates a simple College website application. It is built with Reactjs,and React Bootstrap as the final project.
 
-## Github link
+
 
 ## Vercel link
 'https://golden-gate.vercel.app/'
 
-# GoldenGateCollegeProject
-# GoldenGateCollegeFirst
-# GoldenGateCollegeFirst
+# GoldenGateCollege
